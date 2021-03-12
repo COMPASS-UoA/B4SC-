@@ -1,0 +1,67 @@
+asian_eth;0;ref;Asian ethnicity;No
+asian_eth;1;;Asian ethnicity;Yes
+birth_father;0;;Father on birth record;No
+birth_father;1;ref;Father on birth record;Yes
+disability_flag;0;ref;Received disability support;No
+disability_flag;1;;Received disability support;Yes
+ed_visit_grp;0;ref;ED visit ever;No
+ed_visit_grp;1;;ED visit ever;Yes
+euro_eth;0;ref;European ethnicity;No
+euro_eth;1;;European ethnicity;Yes
+gestation_grp;1;;Weeks gestation;<37 (vs 37-41)
+gestation_grp;2;ref;Weeks gestation;37-41
+gestation_grp;3;;Weeks gestation;42+ (vs 37-41)
+gp_visit_grp;1;;N quarters enrolled GP;0-3 (vs 12+)
+gp_visit_grp;2;;N quarters enrolled GP;4-7 (vs 12+)
+gp_visit_grp;3;;N quarters enrolled GP;8-11 (vs 12+)
+gp_visit_grp;4;ref;N quarters enrolled GP;12+
+hh_benefit_inc;0;ref;Benefit income;No
+hh_benefit_inc;1;;Benefit income;Yes
+hh_rent;0;ref;Rented home;No
+hh_rent;1;;Rented home;Yes
+hh_size_grp2;1;ref;Household size;<5
+hh_size_grp2;2;;Household size;5-7 (vs <5)
+hh_size_grp2;3;;Household size;8+ (vs <5)
+inpatient_visit_grp;0;ref;N inpatient hospital visits;0
+inpatient_visit_grp;1;;N inpatient hospital visits;1 (vs 0)
+inpatient_visit_grp;2;;N inpatient hospital visits;2+ (vs 0)
+low_bw;0;ref;Birthweight <2500g;No
+low_bw;1;;Birthweight <2500g;Yes
+maori_eth;0;ref;Maori ethnicity;No
+maori_eth;1;;Maori ethnicity;Yes
+mother_age_grp;1;;Mother age;<20 (vs 30-34)
+mother_age_grp;2;;Mother age;20-24 (vs 30-34)
+mother_age_grp;3;;Mother age;25-29 (vs 30-34)
+mother_age_grp;4;ref;Mother age;30-34
+mother_age_grp;5;;Mother age;35+ (vs 30-34)
+mother_highest_qual;0;;Mother highest qualification;No qualifications (vs degree)
+mother_highest_qual;1;;Mother highest qualification;High school (vs degree)
+mother_highest_qual;2;;Mother highest qualification;Tertiary below Bachelor (vs degree)
+mother_highest_qual;3;ref;Mother highest qualification;Bachelor or higher
+mother_smoke;1;;Mother smokes;Current smoker (vs Never)
+mother_smoke;2;;Mother smokes;Ex-smoker (vs Never)
+mother_smoke;3;ref;Mother smokes;Never
+n_mv_access;0;;N motor vehicles available;0 (vs 2+)
+n_mv_access;1;;N motor vehicles available;1 (vs 2+)
+n_mv_access;2;ref;N motor vehicles available;2+
+nzdep_quint;1;ref;NZDep;Quintile 1
+nzdep_quint;2;;NZDep;Quintile 2 (vs 1)
+nzdep_quint;3;;NZDep;Quintile 3 (vs1)
+nzdep_quint;4;;NZDep;Quintile 4 (vs 1)
+nzdep_quint;5;;NZDep;Quintile 5 (vs 1)
+pacific_eth;0;ref;Pacific ethnicity;No
+pacific_eth;1;;Pacific ethnicity;Yes
+parent1_no_english;0;ref;Mother speaks English;No
+parent1_no_english;1;;Mother speaks English;Yes
+res_changes;0;ref;N changes of residence to age 4;<2
+res_changes;1;;N changes of residence to age 4;2 (vs <2)
+res_changes;2;;N changes of residence to age 4;3 (vs <2)
+res_changes;3;;N changes of residence to age 4;4 (vs <2)
+res_changes;4;;N changes of residence to age 4;5+ (vs <2)
+sex;1;;Sex;Male (vs Female)
+sex;2;ref;Sex;Female
+sibling_count;0;ref;N siblings;0
+sibling_count;1;;N siblings;1 (vs 0)
+sibling_count;2;;N siblings;2+ (vs 0)
+urban;0;ref;Urbanicity;Rural
+urban;1;;Urbanicity;Urban (vs rural)
